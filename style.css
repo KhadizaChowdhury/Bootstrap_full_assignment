@@ -68,8 +68,7 @@ input:focus{
 	width: 100%;
 	display: inline-block;
 	background: #21146A;
-	padding: 4% 3%;
-    height: 100vh;
+	padding: 7% 5%;
 }
 .Header .img-fluid {
     max-width: 80%;
